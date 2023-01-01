@@ -127,11 +127,11 @@ int main()
     Dequeue q;
     int ch,element;
     cout<<"Enter a choice:"<<endl;
-    cout<<"1)Insert (Enqueue) element from front."<<endl;
-    cout<<"2)delete (enqueue) element from rear."<<endl;
+    cout<<"1)Insert element from front."<<endl;
+    cout<<"2)delete element from rear."<<endl;
     cout<<"3)Display elements in queue."<<endl;
-    cout<<"4)delete (dequeue) element from front"<<endl;
-    cout<<"5)Delete elements from rear."<<endl;
+    cout<<"4)delete element from front"<<endl;
+    cout<<"5)Delete element from rear."<<endl;
     cout<<"6)Exit."<<endl;
     do{
         cout<<"Enter a choice:"<<endl;
